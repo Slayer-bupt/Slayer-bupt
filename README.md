@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Slayer-bupt 
+- 👋 Hi, I’m zrb
 - 👀 I’m a student in BUPT in Beijing ,China
-- 🌱 I’m currently learning CS
+- 🌱 I’m currently learning CS, including Java
 
 <!---
 Slayer-bupt/Slayer-bupt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
